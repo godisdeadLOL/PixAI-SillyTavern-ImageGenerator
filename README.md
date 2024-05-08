@@ -4,7 +4,9 @@ Using scripts from https://github.com/Recentaly/PixAI-Wrapper
 ![alt text](https://github.com/godisdeadLOL/PixAI-SillyTavern-ImageGenerator/blob/main/images/2.png)
 
 ## My honest opinion
-Images are generated pretty fast but they often lack quality. Can be very abstract or blurry. If you remove "masterpiece", "best quality" and similar from prompt you can even generate not anime pictures. Overall, I think it's a good free option for image generation in SillyTavern.
+https://pixai.art/generator/realtime/drawing is used.
+
+Images are generated pretty fast but they often lack quality. Can be very abstract or blurry. If you remove "masterpiece", "best quality" and similar from prompt you can even generate not anime pictures. Overall, I think it's a good free option.
 
 # 1. Requirements
 - Google Chrome
