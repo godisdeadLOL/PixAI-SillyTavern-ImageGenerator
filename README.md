@@ -1,6 +1,8 @@
 # Use PixAI for SillyTavern Image Generation
 Using scripts from https://github.com/Recentaly/PixAI-Wrapper
 
+![alt text](https://github.com/godisdeadLOL/PixAI-SillyTavern-ImageGenerator/blob/main/images/2.png)
+
 # 1. Requirements
 - Google Chrome
 - Python
@@ -17,3 +19,6 @@ password1234
 ## 2.3 Run run.bat
 It will open Google Chrome to login into your PixAI account and get token. Then the server on http://localhost:5000 will be started.
 ## 2.4 Configure Image Generation in SillyTavern
+Set source to AUTOMATIC1111 and url to http://localhost:5000
+<br><br>
+![alt text](https://github.com/godisdeadLOL/PixAI-SillyTavern-ImageGenerator/blob/main/images/1.png)
