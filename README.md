@@ -11,7 +11,7 @@ Images are generated pretty fast but they often lack quality. Can be very abstra
 - Python
 
 # 2. How to use
-## 2.1 Download and unpack somehere
+## 2.1 Download and unpack somewhere
 ## 2.2 Run init.bat
 This will create python virtual environment and download essentials.
 ## 2.3 Fill account.txt file
