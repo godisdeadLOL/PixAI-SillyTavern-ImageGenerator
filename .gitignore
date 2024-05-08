@@ -1,0 +1,7 @@
+account.txt
+.venv
+LICENSE
+.README.md
+res/__pycache__
+temp
+output

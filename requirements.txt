@@ -1,0 +1,6 @@
+requests
+fake_useragent
+pillow
+selenium
+chromedriver-autoinstaller
+flask
